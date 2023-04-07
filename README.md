@@ -1,2 +1,2 @@
-# GALLE
-GALLE:Galaxy AI Large Language model Engine
+# GALLM
+GALLM:Galaxy AI Large Language model
