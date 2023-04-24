@@ -8,13 +8,13 @@
  
 GALLM is an open source, bilingual dialogue language model that supports both Chinese and English, based on [LLAMA](https://arxiv.org/abs/2302.13971v1) Architecture.
 
-GALLM Optimized for Chinese Q&A and dialogue based on LLAMA。After about 2T Chinese identifier training, supplemented by technologies such as supervised fine-tuning, feedback self-service, and human feedback reinforcement learning，GALLM1.0 We have been able to generate responses that are quite in line with human preferences. For more information, please refer to our[official website](https://www.yunhan-ai.com)。
+GALLM Optimized for Chinese Q&A and dialogue based on LLAMA。After about 2T Chinese identifier training, supplemented by technologies supervised fine-tuning, feedback self-service, and human feedback reinforcement learning，GALLM1.0 We are able to generate responses that align well with human preferences. Please visit our at[official website](https://www.yunhan-ai.com)for more details。
 
 ## What‘s New
 
 - April 24, 2023：GALLM2.0 Publish
 
-GALLM2.0 It is a large-scale language model based on deep learning technology, with a parameter scale of tens of billions, which is even larger than the hundreds of millions level of GALLM1.0. This model uses pre training techniques such as BERT, and incorporates a large number of language models and knowledge bases, making it perform well in semantic understanding, information extraction, text classification, and other aspects. In addition, GALLM2.0 has also been optimized in terms of model structure and algorithm, further improving the performance of the model.
+GALLM2.0 It is a large-scale language model based on deep learning technology, with parameters in the tens of billions, compared to hundreds of millions in GALLM1.0. This model uses pre-training techniques like BERT, and incorporates techniques/components from various language models and knowledge bases, enabling it to achieve strong performance on semantic understanding, information extraction, and text classification.  and other aspects. GALLM2.0 has an optimized model architecture and training algorithm, leading to further performance gains.
 - March 9, 2023：Galaxy AI Application Matrix Publish
 
 <img src="help.jpg" alt="Stanford-Alpaca" style="width: 20%; min-width: 100px; margin-right: 30px;"><img src="counselor.jpg" alt="Stanford-Alpaca" style="width: 20%; min-width: 200px; margin-right:10px;"><img src="advertorial.jpg" alt="Stanford-Alpaca" style="width: 20%; min-width: 300px;   margin-right:10px;"><img src="painting.jpg" alt="Stanford-Alpaca" style="width: 20%; min-width: 400px;  margin-right:10px;">
@@ -31,4 +31,4 @@ GALLM2.0 It is a large-scale language model based on deep learning technology, w
 -  data generation: https://github.com/LianjiaTech/BELLE and https://guanaco-model.github.io/
 -  the first work: https://github.com/tatsu-lab/stanford_alpaca
 
-GALLM2.0，This model has been upgraded based on GALLM1.0，Now available for use on the Galaxy AI（AI PLUS），Users can follow the WeChat official account（云汉AI）Or visit [AI PLUS Platform](https://app.yunhan-ai.com) Understand and try the powerful features and performance of this model。At the same time, the AI PLUS platform provides a wide range of AI intelligent tools, such as new media writing, e-commerce, educational papers, and workplace tools, which can greatly improve work efficiency.
+GALLM2.0，This upgraded model, GALLM2.0, is now available on Galaxy AI(AI PLUS) platform.Users can follow the WeChat official account（云汉AI） or visit our website [AI PLUS Platform](https://app.yunhan-ai.com) There, users can understand and experience the powerful capabilities of GALLM2.0.The AI PLUS platform also offers various AI tools, such as those for new media writing, e-commerce, education, and workplace. These tools can substantially improve productivity and efficiency.
