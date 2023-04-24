@@ -22,7 +22,7 @@ GALLM2.0 It is a large-scale language model based on deep learning technology, w
 - March 8, 2023：GALLM1.0 Publish
 - November 16, 2022：Galaxy AI Painting mini program Publish
 - October 13, 2022：Galaxy AI Painting platform Publish
-- March 16, 2022：Team establishment（云汉计算机工作室）
+- March 16, 2022：Team establishment
 
 **相关技术**
 
