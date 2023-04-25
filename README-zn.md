@@ -17,7 +17,7 @@ GALLM 根据LLAMA 针对中文问答和对话进行了优化。经过约 2T 标�
 GALLM2.0是一种基于深度学习技术的大型语言模型，其参数规模达到了百亿级别，比GALLM1.0的数亿级别更加庞大。该模型使用了BERT等预训练技术，并融入了大量语言模型和知识库，使得模型在语义理解、信息提取、文本分类等方面表现出色。此外，GALLM2.0在模型结构和算法上也进行了优化，使得模型的性能得到了进一步提升。
 - March 9, 2023：云汉人工智能应用矩阵发布
 
-<img src="help.jpg" alt="Stanford-Alpaca" style="width: 20%; min-width: 100px; margin-right: 30px;"><img src="counselor.jpg" alt="Stanford-Alpaca" style="width: 20%; min-width: 200px; margin-right:10px;"><img src="advertorial.jpg" alt="Stanford-Alpaca" style="width: 20%; min-width: 300px;   margin-right:10px;"><img src="painting.jpg" alt="Stanford-Alpaca" style="width: 20%; min-width: 400px;  margin-right:10px;">
+<img src="help.jpg" alt="Galaxy-AI" style="width: 20%; min-width: 100px; margin-right: 30px;"><img src="counselor.jpg" alt="Galaxy-AI" style="width: 20%; min-width: 200px; margin-right:10px;"><img src="advertorial.jpg" alt="Galaxy-AI" style="width: 20%; min-width: 300px;   margin-right:10px;"><img src="painting.jpg" alt="Galaxy-AI" style="width: 20%; min-width: 400px;  margin-right:10px;">
 - March 8, 2023：GALLM1.0上线
 - November 16, 2022：云汉AI绘画小程序上线
 - October 13, 2022：发布云汉AI绘画平台
