@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<a href="https://app.yunhan-ai.com" target="_blank"><img src="logo.png" alt="Stanford-Alpaca" style="width: 25%; min-width: 300px; display: block; margin: auto;"></a>
+<a href="https://app.yunhan-ai.com" target="_blank"><img src="logo.png" alt="Galaxy-AI" style="width: 25%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
 
 
