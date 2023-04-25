@@ -17,7 +17,7 @@ GALLM Optimized for Chinese Q&A and dialogue based on LLAMA。After about 2T Chi
 GALLM2.0 It is a large-scale language model based on deep learning technology, with parameters in the tens of billions, compared to hundreds of millions in GALLM1.0. This model uses pre-training techniques like BERT, and incorporates techniques/components from various language models and knowledge bases, enabling it to achieve strong performance on semantic understanding, information extraction, and text classification.  and other aspects. GALLM2.0 has an optimized model architecture and training algorithm, leading to further performance gains.
 - March 9, 2023：Galaxy AI Application Matrix Publish
 
-<img src="help.jpg" alt="Stanford-Alpaca" style="width: 20%; min-width: 100px; margin-right: 30px;"><img src="counselor.jpg" alt="Stanford-Alpaca" style="width: 20%; min-width: 200px; margin-right:10px;"><img src="advertorial.jpg" alt="Stanford-Alpaca" style="width: 20%; min-width: 300px;   margin-right:10px;"><img src="painting.jpg" alt="Stanford-Alpaca" style="width: 20%; min-width: 400px;  margin-right:10px;">
+<img src="help.jpg" alt="Galaxy-AI" style="width: 20%; min-width: 100px; margin-right: 30px;"><img src="counselor.jpg" alt="Galaxy-AI" style="width: 20%; min-width: 200px; margin-right:10px;"><img src="advertorial.jpg" alt="Galaxy-AI" style="width: 20%; min-width: 300px;   margin-right:10px;"><img src="painting.jpg" alt="Galaxy-AI" style="width: 20%; min-width: 400px;  margin-right:10px;">
 
 - March 8, 2023：GALLM1.0 Publish
 - November 16, 2022：Galaxy AI Painting mini program Publish
