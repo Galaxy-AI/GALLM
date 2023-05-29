@@ -11,6 +11,7 @@ GALLM is an open source, bilingual dialogue language model that supports both Ch
 GALLM Optimized for Chinese Q&A and dialogue based on LLAMA。After about 2T Chinese identifier training, supplemented by technologies supervised fine-tuning, feedback self-service, and human feedback reinforcement learning，GALLM1.0 We are able to generate responses that align well with human preferences. Please visit our at[official website](https://www.yunhan-ai.com)for more details。
 
 ## What‘s New
+- Open source part of the data set
 
 - April 24, 2023：GALLM2.0 Publish
 
